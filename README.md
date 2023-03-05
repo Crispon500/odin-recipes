@@ -1,2 +1,2 @@
 # odin-recipes
-Front-end practice
+Front-end HTML practice
